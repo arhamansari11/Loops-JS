@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.btn{
+background-color: black;
+    width: 30px ;
+    height: 30px ;
+    display: flex ;
+    justify-content: center ;
+    margin-top: 200px;
+    margin-left: 200px;
+    cursor: pointer;
+}
